@@ -16,9 +16,8 @@ Papers | Conference | Year | Code | Speaker |Slides
 [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://arxiv.org/abs/2106.12423)  | ICCV | 2021 | [here](https://github.com/NVlabs/stylegan3) | Xiaohang Wang | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzN1tENqJ7I6-fgL?e=LNdqOa) 
 [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)   |   CVPR   |     2021      |   [here](https://github.com/mit-han-lab/anycost-gan)  |   Yutian Liu  | x 
 [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)  |CVPR | 2021 | [here](https://github.com/microsoft/CoCosNet-v2) | Jiyao Mao | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzHLrLegglUWRcPL?e=XS46dI) 
-[Projected GANs Converge Faster](https://arxiv.org/abs/2111.01007)   |   NIPS   |     2021      |   [here](https://github.com/autonomousvision/projected_gan)  |   Yuhan Li  | x 
-[BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation](https://arxiv.org/abs/2110.11728)   |   NIPS   |     2021      |   [here](https://github.com/onion-liu/BlendGAN)  |   Yuhan Li  | x 
-[GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)   |   arXiv   |     2021      |   [here](https://github.com/wpeebles/gangealing)  |   Yuhan Li  | x 
+[Projected GANs Converge Faster](https://arxiv.org/abs/2111.01007)   |   NIPS   |     2021      |   [here](https://github.com/autonomousvision/projected_gan)  |   Yuhan Li  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzabp4-izhOKhtuh?e=OgaS12) 
+[GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)   |   arXiv   |     2021      |   [here](https://github.com/wpeebles/gangealing)  |   Yuhan Li  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzd_qzNmfcws_Jdu?e=wTlcfU) 
 
 
 ## DDPM related models
