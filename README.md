@@ -18,6 +18,8 @@ Papers | Conference | Year | Code | Speaker |Slides
 [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)  |CVPR | 2021 | [here](https://github.com/microsoft/CoCosNet-v2) | Jiyao Mao | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzHLrLegglUWRcPL?e=XS46dI) 
 [Projected GANs Converge Faster](https://arxiv.org/abs/2111.01007)   |   NIPS   |     2021      |   [here](https://github.com/autonomousvision/projected_gan)  |   Yuhan Li  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzabp4-izhOKhtuh?e=OgaS12) 
 [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)   |   arXiv   |     2021      |   [here](https://github.com/wpeebles/gangealing)  |   Yuhan Li  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzd_qzNmfcws_Jdu?e=wTlcfU) 
+[HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/abs/2106.09965)   |   IJCAI   |     2021      |   [here](https://github.com/mindslab-ai/hififace)  |   Yutian Liu  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzqnvJ8rX1sCpyWZ?e=032RMi) 
+[Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers](https://arxiv.org/abs/1912.00157)   |   CVPR   |     2020      |   [here](https://www.catalyzex.com/redirect?url=https://github.com/shadyabh/Correction-Filter)  |   Xiaohang Wang  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzkllK_O_bL-4ZOI?e=co6IXH) 
 
 
 ## DDPM related models
