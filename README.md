@@ -29,3 +29,19 @@ Papers | Conference | Year | Code | Speaker |Slides
 [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938)   | ICCV   |     2021      |   [here](https://github.com/jychoi118/ilvr_adm) |  Jiyao Mao   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzHLrLegglUWRcPL?e=XS46dI) 
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)   | NIPS   |     2020      |   [here](https://github.com/hojonathanho/diffusion) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzDpKqZGk2wH5b6h?e=ivIBLm) 
 [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822)   | arXiv   |     2021      |   [here](https://github.com/microsoft/VQ-Diffusion) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzDpKqZGk2wH5b6h?e=ivIBLm) 
+
+
+## Deep Compression
+
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
+
+
+## Text to image and CLIP
+
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)   | arXiv   |     2021      |   [here](https://github.com/OpenAI/CLIP) |  Zhilin Zeng   | [here](https://github.com/orpatashnik/StyleCLIP) 
+[StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html)   | ICCV   |     2021      |   [here](https://github.com/orpatashnik/StyleCLIP) |  Zhilin Zeng   | [here](https://github.com/orpatashnik/StyleCLIP) 
+
