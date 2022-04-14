@@ -42,6 +42,7 @@ A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [he
 
 Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
-[CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)   | arXiv   |     2021      |   [here](https://github.com/OpenAI/CLIP) |  Zhilin Zeng   | [here](https://github.com/orpatashnik/StyleCLIP) 
-[StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html)   | ICCV   |     2021      |   [here](https://github.com/orpatashnik/StyleCLIP) |  Zhilin Zeng   | [here](https://github.com/orpatashnik/StyleCLIP) 
-
+[CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)   | arXiv   |     2021      |   [here](https://github.com/OpenAI/CLIP) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzvbYEr3wNPCsHD6?e=F3MOdT) 
+[StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html)   | ICCV   |     2021      |   [here](https://github.com/orpatashnik/StyleCLIP) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzvbYEr3wNPCsHD6?e=F3MOdT) 
+[CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](https://arxiv.org/abs/2106.14843)   | arXiv   |     2021      |   [here](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb) |  Ye Chen   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz7vPn_IoNk6v14k?e=ggzqEL) 
+[StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation](https://arxiv.org/abs/2202.12362)   | arXiv   |     2022      |   [here](https://github.com/pschaldenbrand/StyleCLIPDraw) |  Ye Chen   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz7vPn_IoNk6v14k?e=ggzqEL) 
