@@ -29,6 +29,9 @@ Papers | Conference | Year | Code | Speaker |Slides
 [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938)   | ICCV   |     2021      |   [here](https://github.com/jychoi118/ilvr_adm) |  Jiyao Mao   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzHLrLegglUWRcPL?e=XS46dI) 
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)   | NIPS   |     2020      |   [here](https://github.com/hojonathanho/diffusion) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzDpKqZGk2wH5b6h?e=ivIBLm) 
 [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822)   | arXiv   |     2021      |   [here](https://github.com/microsoft/VQ-Diffusion) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzDpKqZGk2wH5b6h?e=ivIBLm) 
+[Latent Diffusion Models](https://arxiv.org/abs/2112.10752)   | arXiv   |     2021      |   [here](https://github.com/CompVis/latent-diffusion) |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0CKHUSEYnVSw6y3?e=vhJ67u) 
+[Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes](https://arxiv.org/abs/2111.12701)   | arXiv   |     2021      |   [here](https://github.com/samb-t/unleashing-transformers) |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0CKHUSEYnVSw6y3?e=vhJ67u) 
+[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)   | ICLR   |     2021      |   [here](https://github.com/yang-song/score_sde) |  Yuhan Li   | [here](https://blog.csdn.net/g11d111/article/details/118026427) 
 
 
 ## Deep Compression
@@ -36,6 +39,12 @@ Papers | Conference | Year | Code | Speaker |Slides
 Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
 A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
+
+
+## Implicit Representations
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[(Implicit) ^2: Implicit Layers for Implicit Representations](https://openreview.net/forum?id=AcoMwAU5c0s)   | ICLR   |     2021      |   [here](https://github.com/locuslab/ImpSq) |  Xiaohang Wang   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz8P7c063TKg2JhT?e=YQHSt2)  
 
 
 ## Text to image and CLIP
