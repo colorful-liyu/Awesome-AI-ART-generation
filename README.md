@@ -22,6 +22,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 [Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers](https://arxiv.org/abs/1912.00157)   |   CVPR   |     2020      |   [here](https://www.catalyzex.com/redirect?url=https://github.com/shadyabh/Correction-Filter)  |   Xiaohang Wang  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzkllK_O_bL-4ZOI?e=co6IXH) 
 
 
+## GAN Edit Method
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+How to Edit on Latent Space of GAN   |  x  |       x    |   x |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0FhBGvLIiFInZb6?e=9h6pAj) 
+
+
+
 ## DDPM related models
 
 Papers | Conference | Year | Code | Speaker |Slides
@@ -39,6 +46,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
 A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
+
+
+## Nerf Related
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/abs/2112.05131)   | CVPR   |     2022      |   [here](https://alexyu.net/plenoxels/) |  Xiaohang Wang   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0Iu6HEwII8Xt8sE?e=E4wcLV)  
+[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845)   | CVPR   |     2022      |   [here](https://xharlie.github.io/projects/project_sites/pointnerf/) |  Xiaohang Wang   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0Iu6HEwII8Xt8sE?e=E4wcLV)  
 
 
 ## Implicit Representations
