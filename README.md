@@ -47,6 +47,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
 A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
 
+## Loss Landscape
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)   | NIPS   |     2018      |   [here](https://github.com/tomgoldstein/loss-landscape) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709)   | ICLR   |     2022      |   [here](https://github.com/xxxnell/how-do-vits-work) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations](https://arxiv.org/abs/2106.01548)   | ICLR   |     2022      |   [here](https://github.com/google-research/vision_transformer) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[An Empirical Analysis of Deep Network Loss Surfaces](https://arxiv.org/abs/1612.04010)   | Machine Learning   |     2017      |   x |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
 
 ## Nerf Related
 Papers | Conference | Year | Code | Speaker |Slides
@@ -68,4 +75,5 @@ Papers | Conference | Year | Code | Speaker |Slides
 [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)   | arXiv   |     2021      |   [here](https://github.com/OpenAI/CLIP) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzvbYEr3wNPCsHD6?e=F3MOdT) 
 [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html)   | ICCV   |     2021      |   [here](https://github.com/orpatashnik/StyleCLIP) |  Zhilin Zeng   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzvbYEr3wNPCsHD6?e=F3MOdT) 
 [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](https://arxiv.org/abs/2106.14843)   | arXiv   |     2021      |   [here](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb) |  Ye Chen   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz7vPn_IoNk6v14k?e=ggzqEL) 
-[StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation](https://arxiv.org/abs/2202.12362)   | arXiv   |     2022      |   [here](https://github.com/pschaldenbrand/StyleCLIPDraw) |  Ye Chen   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz7vPn_IoNk6v14k?e=ggzqEL) 
+[StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation](https://arxiv.org/abs/2202.12362)   | arXiv   |     2022      |   [here](https://github.com/pschaldenbrand/StyleCLIPDraw) |  Ye Chen   | [here](https://1drv.ms/p/s!AlS0P3vuVTvigz7vPn_IoNk6v14k?e=ggzqEL)
+A survey about VectorDrawing   |  x  |       x    |   x |  Jiyao Mao   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0XWmI4R1gTHD6Kc?e=2tKAMZ) 
