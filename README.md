@@ -39,6 +39,7 @@ Papers | Conference | Year | Code | Speaker |Slides
 [Latent Diffusion Models](https://arxiv.org/abs/2112.10752)   | arXiv   |     2021      |   [here](https://github.com/CompVis/latent-diffusion) |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0CKHUSEYnVSw6y3?e=vhJ67u) 
 [Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes](https://arxiv.org/abs/2111.12701)   | arXiv   |     2021      |   [here](https://github.com/samb-t/unleashing-transformers) |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0CKHUSEYnVSw6y3?e=vhJ67u) 
 [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)   | ICLR   |     2021      |   [here](https://github.com/yang-song/score_sde) |  Yuhan Li   | [here](https://blog.csdn.net/g11d111/article/details/118026427) 
+An Introduction About Diffusion Models   | x   |     x      |   x |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0iVhomWaQ_PjzKd?e=9UOBG4) 
 
 
 ## Deep Compression
